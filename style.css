@@ -13,3 +13,9 @@ body {
 .container img {
   width: 100%;
 }
+
+.row .container:focus,
+.row .container:hover {
+  transform: scale(1.5);
+  z-index: 1;
+}
