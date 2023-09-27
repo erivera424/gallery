@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.row{
+  display: flex;
+}
+
+.container{
+  width: 20%;
+}
+
+.container img {
+  width: 100%;
+}
