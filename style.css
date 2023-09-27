@@ -2,7 +2,6 @@
 .row {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap; /* Enable wrapping */
 }
 
 /* Each container takes up 50% of the row (two containers per row) */
