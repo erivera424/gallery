@@ -1,0 +1,18 @@
+/* Ensure flex direction is row */
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; /* Enable wrapping */
+}
+
+/* Each container takes up 50% of the row (two containers per row) */
+.container {
+  width: 50%;
+  box-sizing: border-box; /* Consider padding and border in the width */
+}
+
+/* Set a max width for the images to ensure they fit within the containers */
+.container img {
+  max-width: 100%;
+  height: auto;
+}
