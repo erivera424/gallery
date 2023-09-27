@@ -2,11 +2,11 @@ body {
   margin: 0;
 }
 
-.row{
+.row {
   display: flex;
 }
 
-.container{
+.container {
   width: 20%;
 }
 
