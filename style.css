@@ -26,7 +26,6 @@ li{
 
 .row {
   display: flex;
-  margin: 0 -10px;
 }
 
 .container {
@@ -38,6 +37,8 @@ li{
   width: 100%;
   opacity: 1;
   height: auto;
+  padding-left: 10px;
+  padding-right: 10px;
   transition: .5s ease-in-out;
 }
 
