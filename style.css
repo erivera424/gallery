@@ -26,11 +26,14 @@ li{
 
 .row {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .container {
   width: 20%;
   position: relative;
+  margin: 10px;
 }
 
 .container img {
