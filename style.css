@@ -4,6 +4,26 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
+.logo{
+width: 60px;
+margin-top: -10px;
+}
+
+.nav{
+display: flex;
+justify-content: center;
+padding: 10px;
+}
+
+ul{
+  display: flex;
+}
+
+li{
+  list-style: none;
+  padding: 20px;
+}
+
 .row {
   display: flex;
 }
