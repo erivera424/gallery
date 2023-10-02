@@ -87,5 +87,5 @@ a {
 }
 
 .email-highlight:hover {
-  text-decoration: underline; /* Underline the text on hover */
+  text-decoration: none; /* Underline the text on hover */
 }
