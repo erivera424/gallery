@@ -80,3 +80,12 @@ li{
 a {
   text-decoration: none;
 }
+
+.email-highlight {
+  font-weight: bold;
+  color: #007bff; /* Blue color, or choose a color that fits your design */
+}
+
+.email-highlight:hover {
+  text-decoration: underline; /* Underline the text on hover */
+}
